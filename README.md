@@ -8,9 +8,9 @@
 <h1 align="center">Hi 👋, I'm Sharmili S</h1>
 <h3 align="center">Passionate Data Analyst | Exploring the World of Data</h3>
 
-- I'm skilled in **Excel, Power BI, SQL & Python**
+- I'm skilled in **Excel, Power BI, SQL, Python & Machine learning**
 
-- All of my projects are available at
+- All of my projects are available at [https://linktr.ee/sharmili.s_](https://linktr.ee/sharmili.s_)
 
 - How to reach me **sharmili.sathyamoorthy@outlook.com**
 
